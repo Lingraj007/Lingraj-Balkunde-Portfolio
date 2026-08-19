@@ -2,7 +2,7 @@
 
 A personal developer portfolio website showcasing my profile as a **Java Full Stack Developer (Fresher)** based in Bengaluru, Karnataka.
 
-🔗 **Live site:** https://lingraj007.github.io/Lingraj-Balkunde/
+🔗 **Live site:** https://lingraj007.github.io/Lingraj-Balkunde-Portfolio/
 📄 **Resume:** [Lingraj-Resume.pdf](https://github.com/Lingraj007/Lingraj-Balkunde/blob/main/Lingraj-Resume.pdf)
 
 ---
